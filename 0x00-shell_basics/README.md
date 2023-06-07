@@ -1,1 +1,1 @@
-first work
+scripting to print work directory
